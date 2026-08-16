@@ -11,7 +11,7 @@ Bir yolcunun yaşı, cinsiyeti, bilet sınıfı, aile büyüklüğü ve benzeri 
 
 Projede Kaggle'ın Titanic veri seti kullanılmıştır.
 
-[ Titanic Dataset — Kaggle](https://www.kaggle.com/c/titanic)
+[ Titanic Dataset — Kaggle](https://www.kaggle.com/competitions/titanic/data)
 
 ## Veri Ön İşleme
 
