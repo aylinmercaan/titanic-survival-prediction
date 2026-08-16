@@ -71,7 +71,7 @@ Bu sonuçlara göre en yüksek accuracy değerini **Logistic Regression** modeli
 
 Projenin detaylı anlatımına Medium yazım üzerinden ulaşabilirsiniz.
 
-[Medium yazısı — Titanic Verisiyle Makine Öğrenmesi Projem: Kim Hayatta Kalır?]([(https://medium.com/@aylinmercaan/titanic-verisiyle-makine-%C3%B6%C4%9Frenmesi-projem-kim-hayatta-kal%C4%B1r-9ef8bcbb4725?sharedUserId=aylinmercaan])
+[Medium yazısı — Titanic Verisiyle Makine Öğrenmesi Projem: Kim Hayatta Kalır?](https://medium.com/@aylinmercaan/titanic-verisiyle-makine-%C3%B6%C4%9Frenmesi-projem-kim-hayatta-kal%C4%B1r-9ef8bcbb4725?sharedUserId=aylinmercaan)
 
 ## Geliştirme Fikirleri
 
